@@ -1,0 +1,50 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #58f3a0;
+
+}
+
+header{
+    /* text-align: center; */
+    color: rgb(220, 157, 75);
+}
+
+.row{
+    background-color: aqua;
+    border-radius: 15px;
+}
+
+ 
+#img{
+    width: 200px;
+    height: 200px;
+}
+
+
+li{
+    color: rgb(255, 145, 0);
+
+}
+
+pre{
+    color: rgb(220, 157, 75);
+    
+}
+
+table, th, td {
+    margin-top: 30px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 30px;
+}
+
+th{
+    background-color: rgb(220, 157, 75);
+}
+
